@@ -1,3 +1,3 @@
 ---
-permalink: /maintenance/index.html
+permalink: /index.html
 ---
