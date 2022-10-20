@@ -1,3 +1,0 @@
----
-permalink: blog/index.md
----
