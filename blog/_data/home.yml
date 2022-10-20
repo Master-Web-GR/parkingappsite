@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: Σχετικά με το Blog
     url: about
 
-  - title: blog
+  - title: Άρθρα
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: Πίσω στο site
+    url: https://parkingapp.papoucostas.eu
 
 project_entries:
   - title: Project 1
